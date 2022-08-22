@@ -24,6 +24,11 @@
             <version>${jakartaee}</version>
             <scope>provided</scope>
         </dependency>
+        <!-- <dependency> 
+                  <groupId>com.oracle.database.jdbc</groupId> 
+                  <artifactId>ojdbc8</artifactId> 
+                  <version>12.2.0.1</version>
+         </dependency>--> 
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
